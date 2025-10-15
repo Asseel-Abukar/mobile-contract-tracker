@@ -29,3 +29,17 @@
     "vite": "^7.1.7"
   }
 }
+{
+  "name": "mobile-contract-tracker",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "20.x" },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": { /* ... */ },
+  "devDependencies": { /* ... */ }
+}
